@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Result API</string>
+    <!--buttons -->
+    <string name="btn_edit_text">Edit</string>
+    <string name="btn_request_permission">Request permission</string>
+    <string name="btn_apply">Apply</string>
+    <string name="btn_cancel">Cancel</string>
+    <!--TextViews -->
+    <string name="tw_text">Sample text</string>
+    <string name="et_text"></string>
+    <string name="et_hint">Enter the text</string>
+</resources>
